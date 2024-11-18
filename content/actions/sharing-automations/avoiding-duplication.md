@@ -1,4 +1,4 @@
----
+---content/actions/sharing-automations/avoiding-duplication.md
 title: Avoiding duplication
 shortTitle: Avoid duplication
 intro: You can use reusable workflows or composite actions to avoid duplicating the content of workflows.
